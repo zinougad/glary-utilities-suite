@@ -1,0 +1,14 @@
+# See https://github.com/github/linguist
+# Generated on 2026-11-05
+
+dist/* linguist-vendored
+*.tsx linguist-detectable
+examples/site/* linguist-vendored
+*.ts linguist-detectable
+*.svg text
+*.yaml linguist-detectable=false
+
+examples/site/*.html linguist-vendored
+*.sh text eol=lf
+
+*.woff2 binary

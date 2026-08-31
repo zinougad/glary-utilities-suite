@@ -1,0 +1,6 @@
+{
+  "name": "site-b4026",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "./src/index.ts"
+}
